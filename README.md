@@ -5,11 +5,11 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/enzolealcav/enzolealcav/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-# 💫 About Me:
+# 💫 Sobre Mim:
 🎓 Estudante de **Ciência da Computação na CESAR School** | Recife, Brasil.<br><br>💻 Interessado em desenvolvimento de software, tecnologia, hardware e cibersegurança.<br><br>🚀 Atualmente desenvolvendo projetos acadêmicos e pessoais, explorando tecnologias e aprimorando minhas habilidades em programação, especialmente com Python, C++ e desenvolvimento web.<br><br>🛠️ Sempre buscando aprender, construir soluções e transformar ideias em projetos reais.<br><br>🌎 English: C1 Advanced Certified — NCG Liverpool, UK.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lealcav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Enzo Leal Cavalcanti) 
 
 # 💻 Tech Stack:
