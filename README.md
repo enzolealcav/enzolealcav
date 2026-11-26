@@ -5,8 +5,14 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/enzolealcav/enzolealcav/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-# 💫 Sobre Mim:
-🎓 Estudante de **Ciência da Computação na CESAR School** | Recife, Brasil.<br><br>💻 Interessado em desenvolvimento de software, tecnologia, hardware e cibersegurança.<br><br>🚀 Atualmente desenvolvendo projetos acadêmicos e pessoais, explorando tecnologias e aprimorando minhas habilidades em programação, especialmente com Python, C++ e desenvolvimento web.<br><br>🛠️ Sempre buscando aprender, construir soluções e transformar ideias em projetos reais.<br><br>🌎 English: C1 Advanced Certified — NCG Liverpool, UK.
+# 👾 About me:
+🎓 Student of **Computer Science at CESAR School** | Recife, Brazil.
+
+💻 Interested in software development, technology, hardware, and cybersecurity.
+
+🚀 Currently developing academic and personal projects, exploring technologies, and improving my programming skills, especially in Python, C++, and web development.
+
+🛠️ Always looking to learn, build solutions, and turn ideas into real-world projects.<br><br>🌎 English: C1 Advanced Certified — NCG Liverpool, UK.
 
 
 ## 🌐 Redes Sociais:
