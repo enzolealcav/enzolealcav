@@ -15,7 +15,7 @@
 🛠️ Always looking to learn, build solutions, and turn ideas into real-world projects.<br><br>🌎 English: C1 Advanced Certified — NCG Liverpool, UK.
 
 
-## 🌐 Redes Sociais:
+## 🌐 **Social Media**:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lealcav) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/enzo-leal-cavalcanti-a12007435/) 
 
