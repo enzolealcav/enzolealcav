@@ -8,11 +8,11 @@
 # 👾 About me:
 🎓 Student of **Computer Science at CESAR School** | Recife, Brazil.
 
-💻 Interested in software development, technology, hardware, and cybersecurity.
+💻 Interested in software development, technology, hardware and cybersecurity.
 
-🚀 Currently developing academic and personal projects, exploring technologies, and improving my programming skills, especially in Python, C++, and web development.
+🚀 Currently developing academic and personal projects, exploring technologies, and improving my programming skills, especially in Python, C++ and web development.
 
-🛠️ Always looking to learn, build solutions, and turn ideas into real-world projects.<br><br>🌎 English: C1 Advanced Certified — NCG Liverpool, UK.
+🛠️ Always looking to learn, build solutions, and turn ideas into real-world projects.<br><br>🌎 English: C1 Advanced Certified at NCG Liverpool, UK.
 
 
 ## 🌐 **Social Media**:
